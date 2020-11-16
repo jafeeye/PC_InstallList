@@ -23,6 +23,12 @@ Autodesk 相關軟體
 | 3dsMax | Second Header |
 | Maya  |
 
+多媒體相關製作軟體
+| First Header  | Second Header |
+| ------------- | ------------- |
+| 音樂製作 | Cubase、iZotope Reverb |
+| 影片製作  | VegasPro、|
+| VJ  | vMix |
 
 
 
