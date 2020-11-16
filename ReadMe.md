@@ -8,7 +8,8 @@ Microsoft
 | Systernails Tools  | Content Cell  |
 | Bing Wallpaper | Content Cell  |
 | Microsoft Office<br>Excel、PowerPoint、Word| Content Cell  |
-
+| Microsoft Expression Studio  |
+| Microsoft Visual Studio  |
 
 ## 註冊檔整理
 
