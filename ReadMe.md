@@ -1,10 +1,14 @@
 ## 常用軟體
 
-微軟出品
+Microsoft
 | First Header  | Second Header |
 | ------------- | ------------- |
 | [Visual Studio Code](https://code.visualstudio.com/download)|   |
-| PowerToys  | Content Cell  
+| Windows PowerToys  | Content Cell  |
+| Systernails Tools  | Content Cell  |
+| Bing Wallpaper | Content Cell  |
+| Microsoft Office<br>Excel、PowerPoint、Word| Content Cell  |
+
 
 ## 註冊檔整理
 
