@@ -10,6 +10,7 @@ Microsoft 相關
 | Microsoft Office：<br>Excel、PowerPoint、Word| Content Cell  | |
 | Microsoft Expression Studio  |
 | Microsoft Visual Studio  | |
+|  Windows Terminal  |
 
 Adobe 相關軟體
 | First Header  | Second Header |
