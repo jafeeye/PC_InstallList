@@ -30,9 +30,19 @@ Autodesk 相關軟體
 | 音樂製作 | Cubase、iZotope Reverb |
 | 影片製作  | VegasPro、|
 | VJ (Visual Jockey) | vMix、Resolume Arena |
-| 繪圖相關 | Clip、PaintToolSAI |
+| 繪圖相關 | Eagle、Clip、PaintToolSAI |
 
+Corel
+| First Header  | Second Header |
+| ------------- | ------------- |
+|
 
+日常相關
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Display Fusion | ------------- |
+| Rolan | ------------- |
+| Fliqlo | ------------- |
 
 <SUP>1<SUP> WSCC 執行先在選項/常規頁面，在 Main Screen 框中的 Software List View 選擇 Medium Icon 
   
