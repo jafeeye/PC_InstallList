@@ -5,7 +5,7 @@ Microsoft 相關
 | ------------- | ------------- |
 | [Visual Studio Code](https://code.visualstudio.com/download)|   |
 | Windows PowerToys  | Content Cell  |
-| Systernails Tools + WSCC  | Content Cell  |
+| Systernails Tools + WSCC<SUP>1<SUP>  | Content Cell  |
 | Bing Wallpaper | Content Cell  |
 | Microsoft Office：<br>Excel、PowerPoint、Word| Content Cell  |
 | Microsoft Expression Studio  |
