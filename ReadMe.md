@@ -7,12 +7,13 @@ Microsoft 相關
 | Windows PowerToys  | Content Cell  |
 | Systernails Tools + WSCC<SUP>1<SUP>  | Content Cell  |
 | Bing Wallpaper | Content Cell  |
-| Microsoft Office：<br>Excel、PowerPoint、Word| Content Cell  |
+| Microsoft Office：<br>Excel、PowerPoint、Word| Content Cell  | |
 | Microsoft Expression Studio  |
-| Microsoft Visual Studio  |
+| Microsoft Visual Studio  | |
+
 Adobe 相關軟體
 | Adobe XD |  |
-| Adobe  |
+| Adobe  | |
 |  |
 Autodesk 相關軟體
 
