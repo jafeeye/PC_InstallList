@@ -7,4 +7,4 @@
 
 ## 註冊檔整理
 
-[移除 260 字元限制](https://raw.githubusercontent.com/jafeeye/Windows-Optimization/main/Remove%20260%20Character%20Path%20Limit.reg)
+[Windows Explorer 移除 260 字元限制](https://raw.githubusercontent.com/jafeeye/Windows-Optimization/main/Remove%20260%20Character%20Path%20Limit.reg)
