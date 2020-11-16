@@ -10,7 +10,10 @@ Microsoft 相關
 | Microsoft Office：<br>Excel、PowerPoint、Word| Content Cell  |
 | Microsoft Expression Studio  |
 | Microsoft Visual Studio  |
-
+  
+  
+  
+ <SUP>1<SUP> WSCC 執行先在選項/常規頁面，在 Main Screen 框中的 Software List View 選擇 Medium Icon
 ## 註冊檔整理
 
 [Windows Explorer 移除 260 字元限制](https://raw.githubusercontent.com/jafeeye/Windows-Optimization/main/Remove%20260%20Character%20Path%20Limit.reg)
