@@ -30,6 +30,7 @@ Autodesk 相關軟體
 | 音樂製作 | Cubase、iZotope Reverb |
 | 影片製作  | VegasPro、|
 | VJ (Visual Jockey) | vMix、Resolume Arena |
+| 繪圖相關 | Clip、PaintToolSAI |
 
 
 
