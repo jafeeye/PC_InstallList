@@ -14,8 +14,9 @@ Microsoft 相關
 Adobe 相關軟體
 | First Header  | Second Header |
 | ------------- | ------------- |
+| Brackets | Second Header |
 | Adobe XD | Second Header |
-| Adobe  |
+| AcrobatDC |
 
 Autodesk 相關軟體
 | First Header  | Second Header |
