@@ -6,3 +6,5 @@
 | PowerToys  | Content Cell  
 
 ## 註冊檔整理
+
+[移除 260 字元限制][]
