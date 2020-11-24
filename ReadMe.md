@@ -16,6 +16,8 @@ Microsoft 相關
 | Microsoft Visual Studio  | |
 | Microsoft Math | |
 |  Windows Terminal  |
+| Net Core 5  |
+  
 
 Adobe 相關軟體
 | First Header  | Second Header |
@@ -51,6 +53,10 @@ Corel
 | Fliqlo | ------------- |
 
 <SUP>1<SUP> WSCC 執行先在選項/常規頁面，在 Main Screen 框中的 Software List View 選擇 Medium Icon 
+  
+
+## 更新安裝套件
+
   
   
 
