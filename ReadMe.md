@@ -7,9 +7,10 @@ Microsoft 相關
 | [Windows PowerToys](https://github.com/microsoft/PowerToys/releases/)  | Content Cell  |
 | Systernails Tools + WSCC<SUP>1<SUP>  | Content Cell  |
 | Bing Wallpaper | Content Cell  |
-| Microsoft Office：<br>Excel、PowerPoint、Word| Content Cell  | |
+| Microsoft Office：<br>Excel、PowerPoint、Word、PowerBI| Content Cell  | |
 | Microsoft Expression Studio  |
 | Microsoft Visual Studio  | |
+| Microsoft Math | |
 |  Windows Terminal  |
 
 Adobe 相關軟體
