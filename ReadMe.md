@@ -35,10 +35,11 @@ Autodesk 相關軟體
 多媒體相關製作軟體
 | First Header  | Second Header |
 | ------------- | ------------- |
-| 音樂製作 | Sonar、Kontakt、Cubase、iZotope Reverb |
+| 音樂製作 | Cakewalk Sonar、Kontakt、Cubase、iZotope Reverb |
 | 影片製作 | VegasPro、|
 | VJ (Visual Jockey) | vMix、Resolume Arena |
 | 繪圖相關 | Eagle、Clip、PaintToolSAI |
+| 電子書 | Alfa ebook Manager、Bluebeam Revu、ComicEnhancerPro、 |
 
 Corel
 | First Header  | Second Header |
