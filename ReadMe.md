@@ -11,7 +11,7 @@ Microsoft 相關
 | [Windows PowerToys](https://github.com/microsoft/PowerToys/releases/)  | Content Cell  |
 | Systernails Tools + WSCC<SUP>1<SUP>  | Content Cell  |
 | Bing Wallpaper | Content Cell  |
-| Microsoft Office | Excel、PowerPoint、Word、OneNote、Visio、Project |
+| Microsoft Office | Excel、PowerPoint、Word、OneNote、<br>Visio、Project |
 | Microsoft Expression Studio ||
 | Microsoft Visual Studio  | |
 | Microsoft Math | |
