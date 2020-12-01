@@ -34,7 +34,7 @@ Autodesk 相關軟體
 | Maya  |
 
 多媒體相關製作軟體
-| First Header  | Second Header |
+| 類別  | 軟體 |
 | ------------- | ------------- |
 | 音樂製作 | Cakewalk Sonar、Kontakt、Cubase、iZotope Reverb |
 | 影片製作 | VegasPro、|
