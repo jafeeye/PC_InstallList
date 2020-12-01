@@ -39,7 +39,7 @@ Autodesk 相關軟體
 | 音樂製作 | Cakewalk Sonar、Kontakt、Cubase、iZotope Reverb |
 | 影片製作 | VegasPro、|
 | VJ (Visual Jockey) | vMix、Resolume Arena |
-| 繪圖相關 | Eagle、Clip、PaintToolSAI |
+| 繪圖相關 | Eagle、ClipStudio Paint、PaintToolSAI |
 | 電子書 | Alfa ebook Manager、Bluebeam Revu、ComicEnhancerPro、 |
 
 Corel
