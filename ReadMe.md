@@ -41,6 +41,7 @@ Autodesk 相關軟體
 | VJ (Visual Jockey) | vMix、Resolume Arena |
 | 繪圖相關 | Eagle、ClipStudio Paint、PaintToolSAI |
 | 電子書 | Alfa ebook Manager、Bluebeam Revu、ComicEnhancerPro、 |
+| 文書處理 | XMind、 |
 
 Corel
 | First Header  | Second Header |
@@ -53,6 +54,8 @@ Corel
 | Display Fusion | ------------- |
 | Rolan | ------------- |
 | Fliqlo | ------------- |
+| Sadiboxie | ------------- |
+| Notepad++ | ------------- |
 
 <SUP>1<SUP> WSCC 執行先在選項/常規頁面，在 Main Screen 框中的 Software List View 選擇 Medium Icon 
   
