@@ -75,3 +75,7 @@ Corel
 
 ## 自行撰寫
 [RocketDockEX](https://drive.google.com/file/d/1s7Xd4GZXAcyeYv4EUZn-mjAgBHpW8aDx/view?usp=sharing)
+
+
+## 筆記
+[Linux 筆記](https://app.box.com/s/cu9pqd76vpdmoyhrnmpl1rdyqgu7adbs)
