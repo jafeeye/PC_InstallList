@@ -80,5 +80,5 @@ Corel
 
 
 ## 筆記
-[Linux 筆記](https://app.box.com/s/cu9pqd76vpdmoyhrnmpl1rdyqgu7adbs)
-[3C型號選購與維修](https://app.box.com/s/q4nnwi1fnpq284iw6bcekeknk3jxe3ty)
+- [Linux 筆記](https://app.box.com/s/cu9pqd76vpdmoyhrnmpl1rdyqgu7adbs)
+- [3C型號選購與維修](https://app.box.com/s/q4nnwi1fnpq284iw6bcekeknk3jxe3ty)
