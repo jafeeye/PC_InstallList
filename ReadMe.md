@@ -42,6 +42,7 @@ Autodesk 相關軟體
 | 繪圖相關 | Eagle、ClipStudio Paint、PaintToolSAI |
 | 電子書 | Alfa ebook Manager、Bluebeam Revu、ComicEnhancerPro、 |
 | 文書處理 | XMind、 |
+| 影片整理 | tinyMediaManager |
 
 Corel
 | First Header  | Second Header |
@@ -80,3 +81,4 @@ Corel
 
 ## 筆記
 [Linux 筆記](https://app.box.com/s/cu9pqd76vpdmoyhrnmpl1rdyqgu7adbs)
+[3C型號選購與維修](https://app.box.com/s/q4nnwi1fnpq284iw6bcekeknk3jxe3ty)
