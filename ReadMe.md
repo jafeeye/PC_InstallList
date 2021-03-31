@@ -1,7 +1,5 @@
 [Emphasis](#emphasis) 
 
-<a name="emphasis"/>
-
 # 整理電腦使用清單 
 [HackMD版本](https://hackmd.io/0qgyqkOZRuqe3D9A84sIig?both)
 ## 目錄
@@ -135,3 +133,5 @@
 
 ## 範本與資源
 - [模板](https://drive.google.com/drive/folders/1nLkoeUeIJo6b5rDnUOZQMIwQAEJFVzb-?usp=sharing)
+- [Google 協作平台] (https://sites.google.com/view/codebyorange/)
+- [HackMD] 
