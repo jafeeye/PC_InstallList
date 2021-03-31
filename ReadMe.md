@@ -4,99 +4,98 @@
 
 ## :memo: 常用軟體
 
-- 文書相關
-AcrobatDC/AcrobatReader
-MS Office 2019/365 + MODI 2007 文書處理軟體+OCR模組
-MS PowerBI
-BookxNote/知之阅读/
-Zotero/EndNote 文獻整理軟體
-LibreOffice
-Alfa eBook Manager
-Bluebeam Revu
-Infix PDF
-PDF-XChange Editor
-Adobe Digital Edition
-Dr.eye/GoldenDict 辭典軟體
-SDL Trados Studio 翻譯文件軟體 
-CopyTranstrator/QTtanslate+Deepl 線上翻譯軟體
-Abbyy PDF Transformer+13 PDF辨識軟體 
-Abbyy FineReaderPDF 15 OCR辨識軟體 
+### 文書相關
+* AcrobatDC/AcrobatReader
+* MS Office 2019/365 + MODI 2007 文書處理軟體+OCR模組
+* MS PowerBI
+* BookxNote/知之阅读/
+* Zotero/EndNote 文獻整理軟體
+* LibreOffice
+* Alfa eBook Manager
+* Bluebeam Revu
+* Infix PDF
+* PDF-XChange Editor
+* Adobe Digital Edition
+* Dr.eye/GoldenDict 辭典軟體
+* SDL Trados Studio 翻譯文件軟體 
+* CopyTranstrator/QTtanslate+Deepl 線上翻譯軟體
+* Abbyy PDF Transformer+13 PDF辨識軟體 
+* Abbyy FineReaderPDF 15 OCR辨識軟體 
 
 
-- 日常工具/系統軟體
-Bluetooth Battery Mointor：藍牙電量顯示
-QuickLook：實現 Mac 快速預覽功能
-[Windows PowerToys](https://github.com/microsoft/PowerToys/releases/)
-Systernails Tools + WSCC
-Hyread3：加強 Windows 功能
-原始影像擴充功能：加強 Windows 功能
-Snipaste：方便截圖軟體
-ShareX   
-7-zip/WinRAR
-Easeus Todo PCTrans
-Sandiboxie
-Treesize
-新自然輸入法/Yahoo輸入法 改良式輸入法
-WinAero Tweaker
-Fliqlo
-Rolan
-Display Fusion
+### 日常工具/系統軟體
+* Bluetooth Battery Mointor：藍牙電量顯示
+* QuickLook：實現 Mac 快速預覽功能
+* [Windows PowerToys](https://github.com/microsoft/PowerToys/releases/)
+* Systernails Tools + WSCC
+* Hyread3：加強 Windows 功能
+* 原始影像擴充功能：加強 Windows 功能
+* Snipaste：方便截圖軟體
+* ShareX   
+* 7-zip/WinRAR
+* Easeus Todo PCTrans
+* Sandiboxie
+* Treesize
+* 新自然輸入法/Yahoo輸入法 改良式輸入法
+* WinAero Tweaker
+* Fliqlo
+* Rolan
+* Display Fusion
 
-- 寫 CODE
-Typora
-[Visual Studio Code](https://code.visualstudio.com/download)
-VS Studio
-Brackets
-Notepad++
+### 寫 CODE
+* Typora
+* [Visual Studio Code](https://code.visualstudio.com/download)
+* VS Studio
+* Brackets
+* Notepad++
 
-- 音樂創作
-Cubase/Nuendo
-Studio One
-Everyone Piano
-Melodyne
-VoiceMeeter
-MusicBee
-GuitarPro 
-Game Backup Monitor 
+###    音樂創作
+* Cubase/Nuendo
+* Studio One
+* Everyone Piano
+* Melodyne
+* VoiceMeeter
+* MusicBee
+* GuitarPro 
+* Game Backup Monitor 
 
-- 多媒體
-PhotoImpact
+### 多媒體
+* PhotoImpact
 
-- 自行編寫/自行封裝軟體
-[PCKnife v2.0 Beta](https://drive.google.com/file/d/1b1AfmUbSS_ienQYMTKk6q20qud-vx6Oq/view?usp=sharing)
-RocketDockEX v1.3.6
-PDFTools v1.2
-HTPCSS v1.6.1 Beta
+### 自行編寫/自行封裝軟體
+* [PCKnife v2.0 Beta](https://drive.google.com/file/d/1b1AfmUbSS_ienQYMTKk6q20qud-vx6Oq/view?usp=sharing)
+* RocketDockEX v1.3.6
+* PDFTools v1.2
+* HTPCSS v1.6.1 Beta
 
-- 網路相關
-[Motrix 網路續傳軟體](https://motrix.app/zh-CN)
-NetsMan 網路配置切換軟體
-WinSCP FTP協定續傳
-SwithHost! Host編輯軟體
-VPNGate VPN 網路切換軟體
+### 網路相關
+* [Motrix 網路續傳軟體](https://motrix.app/zh-CN)
+* NetsMan 網路配置切換軟體
+* WinSCP FTP協定續傳
+* SwithHost! Host編輯軟體
+* VPNGate VPN 網路切換軟體
 
 
-- 其他軟體
-[CCEA 輸入法練習暨評測系統 v2.05.01](https://drive.google.com/u/1/uc?id=1y-1yHE5DJUvf1p92YfMuCqV8lavDteId&export=download)
-[TQC+認證測驗系統 v2015](https://drive.google.com/u/1/uc?id=11BA2JH4uas4nl2o5IqBi1ooIv32w7K_L&export=download)
-- 推薦網站
+### 其他軟體
+* [CCEA 輸入法練習暨評測系統 v2.05.01](https://drive.google.com/u/1/uc?id=1y-1yHE5DJUvf1p92YfMuCqV8lavDteId&export=download)
+* [TQC+認證測驗系統 v2015](https://drive.google.com/u/1/uc?id=11BA2JH4uas4nl2o5IqBi1ooIv32w7K_L&export=download)
 
-- UWP (Win10使用)
-QuickLook：快速預覽檔案
-Snipaste：一鍵截圖
-PDF Reader by Xodo：PDF閱讀
-Drawboard PDF/LiaquedTextPDF PDF編寫註解
-HP Display Center
-OneDrive 
-Hyread 3 
-MoPTT 
-IT 之家
-Fluent Design
-myTube 
-EarTrumppet
-Realtek Audio Console
-Speedtest
-微軟翻譯
+### UWP (Win10使用)
+* QuickLook：快速預覽檔案
+* Snipaste：一鍵截圖
+* PDF Reader by Xodo：PDF閱讀
+* Drawboard PDF/LiaquedTextPDF PDF編寫註解
+* HP Display Center
+* OneDrive 
+* Hyread 3 
+* MoPTT 
+* IT 之家
+* Fluent Design
+* myTube 
+* EarTrumppet
+* Realtek Audio Console
+* Speedtest
+* 微軟翻譯
 
 ## 常用軟體 (表格式分類)
 
@@ -111,7 +110,7 @@ Speedtest
 | 影片整理 | tinyMediaManager |
 
 
-> 排版檔案下載 (Box)[:arrow_down:](https://app.box.com/s/ewehz0feyyoxgn3mn0lj2xi7tfec4ll0) [color=#3b75c6]
+[文件格式下載](https://app.box.com/s/ewehz0feyyoxgn3mn0lj2xi7tfec4ll0) 
 
   
 
