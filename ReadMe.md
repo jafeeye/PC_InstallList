@@ -83,3 +83,6 @@ Corel
 - [Linux 筆記](https://app.box.com/s/cu9pqd76vpdmoyhrnmpl1rdyqgu7adbs)
 - [3C型號選購與維修](https://app.box.com/s/q4nnwi1fnpq284iw6bcekeknk3jxe3ty)
 - [macOS 筆記]
+
+## 範本與資源
+- [模板](https://drive.google.com/drive/folders/1nLkoeUeIJo6b5rDnUOZQMIwQAEJFVzb-?usp=sharing)
