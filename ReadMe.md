@@ -22,8 +22,9 @@
 * CopyTranstrator/QTtanslate+Deepl 線上翻譯軟體
 * Abbyy PDF Transformer+13 PDF辨識軟體 
 * Abbyy FineReaderPDF 15 OCR辨識軟體 
-
-
+### 學習
+* GoldenDict
+* Anki
 ### 日常工具/系統軟體
 * Bluetooth Battery Mointor：藍牙電量顯示
 * QuickLook：實現 Mac 快速預覽功能
