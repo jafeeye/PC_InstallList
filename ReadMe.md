@@ -43,15 +43,13 @@
 * Fliqlo
 * Rolan
 * Display Fusion
-
 ### 寫 CODE
 * Typora
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * VS Studio
 * Brackets
 * Notepad++
-
-###    音樂創作
+### 音樂創作
 * Cubase/Nuendo
 * Studio One
 * Everyone Piano
@@ -60,29 +58,25 @@
 * MusicBee
 * GuitarPro 
 * Game Backup Monitor 
-
 ### 多媒體
 * PhotoImpact
 * 非常好色
-
 ### 自行編寫/自行封裝軟體
 * [PCKnife v2.0 Beta](https://drive.google.com/file/d/1b1AfmUbSS_ienQYMTKk6q20qud-vx6Oq/view?usp=sharing)
 * RocketDockEX v1.3.6
 * PDFTools v1.2
 * HTPCSS v1.6.1 Beta
-
 ### 網路相關
 * [Motrix 網路續傳軟體](https://motrix.app/zh-CN)
 * NetsMan 網路配置切換軟體
 * WinSCP FTP協定續傳
 * SwithHost! Host編輯軟體
 * VPNGate VPN 網路切換軟體
-
-
+* Firefox
+* Brave
 ### 其他軟體
 * [CCEA 輸入法練習暨評測系統 v2.05.01](https://drive.google.com/u/1/uc?id=1y-1yHE5DJUvf1p92YfMuCqV8lavDteId&export=download)
 * [TQC+認證測驗系統 v2015](https://drive.google.com/u/1/uc?id=11BA2JH4uas4nl2o5IqBi1ooIv32w7K_L&export=download)
-
 ### UWP (Win10使用)
 * QuickLook：快速預覽檔案
 * Snipaste：一鍵截圖
