@@ -63,6 +63,7 @@
 
 ### 多媒體
 * PhotoImpact
+* 非常好色
 
 ### 自行編寫/自行封裝軟體
 * [PCKnife v2.0 Beta](https://drive.google.com/file/d/1b1AfmUbSS_ienQYMTKk6q20qud-vx6Oq/view?usp=sharing)
