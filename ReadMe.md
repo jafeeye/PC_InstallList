@@ -23,7 +23,7 @@
 * Abbyy PDF Transformer+13 PDF辨識軟體 
 * Abbyy FineReaderPDF 15 OCR辨識軟體 
 ### 學習
-* GoldenDict
+* GoldenDict/歐陸字典/法語助手/Dr.eye
 * Anki
 ### 日常工具/系統軟體
 * Bluetooth Battery Mointor：藍牙電量顯示
