@@ -21,7 +21,8 @@
 * SDL Trados Studio 翻譯文件軟體 
 * CopyTranstrator/QTtanslate+Deepl 線上翻譯軟體
 * Abbyy PDF Transformer+13 PDF辨識軟體 
-* Abbyy FineReaderPDF 15 OCR辨識軟體 
+* Abbyy FineReaderPDF 15 OCR辨識軟體
+* AniceSoft EPUB Converter 電子書轉換軟體
 ### 學習
 * GoldenDict/歐陸字典/法語助手/Dr.eye
 * Anki
