@@ -8,7 +8,7 @@
 ### 文書相關
 * AcrobatDC/AcrobatReader
 * MS Office 2019/365 + MODI 2007 文書處理軟體+OCR模組
-* MS PowerBI
+* MS PowerBI/Power Automate Desktop
 * BookxNote/知之阅读/
 * Zotero/EndNote 文獻整理軟體
 * LibreOffice
