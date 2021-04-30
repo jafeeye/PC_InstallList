@@ -13,9 +13,7 @@
 * Zotero/EndNote 文獻整理軟體
 * LibreOffice
 * Alfa eBook Manager
-* Bluebeam Revu
-* Infix PDF
-* PDF-XChange Editor
+* Infix PDF/PDF-XChange Editor/Bluebeam Revu：PDF閱讀軟體
 * Adobe Digital Edition
 * Dr.eye/GoldenDict 辭典軟體
 * SDL Trados Studio 翻譯文件軟體 
