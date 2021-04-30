@@ -63,7 +63,7 @@
 * [PDFTools v1.4](https://drive.google.com/file/d/1gqlXFz03tR-gqRzUfTZm-z3AsTNLlcvA/view?usp=sharing)
 * HTPCSS v1.6.1 Beta
 * [RocketDockEX v1.3.6](https://drive.google.com/file/d/1s7Xd4GZXAcyeYv4EUZn-mjAgBHpW8aDx/view?usp=sharing)
-* [SmallTools v0.1](https://drive.google.com/file/d/1I4YK1rC5Jfrj8tMzB9EZJDEXXv5sp9bt/view?usp=sharing)
+* [SmallTools v0.2](https://drive.google.com/file/d/1rI67hXKFZnKflrOUbdTtabn9OL3dYPff/view?usp=sharing)
 * [ODCATools v0.25](https://drive.google.com/file/d/1cxr-f_cbGO81SqJOkWtJnGfSQDROJhxa/view?usp=sharing)
 ### 網路相關
 * [Motrix 網路續傳軟體](https://motrix.app/zh-CN)
