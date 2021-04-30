@@ -62,10 +62,9 @@
 * 非常好色
 ### 自行編寫/自行封裝軟體
 * [PCKnife v2.0.1](https://drive.google.com/file/d/1JhXLGpMsez_yAa9Y-CfJEIT-T-E8boKn/view?usp=sharing)
-* RocketDockEX v1.3.6
 * [PDFTools v1.4](https://drive.google.com/file/d/1gqlXFz03tR-gqRzUfTZm-z3AsTNLlcvA/view?usp=sharing)
 * HTPCSS v1.6.1 Beta
-* [RocketDockEX](https://drive.google.com/file/d/1s7Xd4GZXAcyeYv4EUZn-mjAgBHpW8aDx/view?usp=sharing)
+* [RocketDockEX v1.3.6](https://drive.google.com/file/d/1s7Xd4GZXAcyeYv4EUZn-mjAgBHpW8aDx/view?usp=sharing)
 * [SmallTools v0.1](https://drive.google.com/file/d/1I4YK1rC5Jfrj8tMzB9EZJDEXXv5sp9bt/view?usp=sharing)
 * [ODCATools v0.25](https://drive.google.com/file/d/1cxr-f_cbGO81SqJOkWtJnGfSQDROJhxa/view?usp=sharing)
 ### 網路相關
@@ -117,7 +116,6 @@
 
 ## 整理網站資源
 [微當下載](https://www.weidown.com/)
-## 自行撰寫
 ## 筆記
 - [Linux 筆記](https://app.box.com/s/cu9pqd76vpdmoyhrnmpl1rdyqgu7adbs)
 - [3C型號選購與維修](https://app.box.com/s/q4nnwi1fnpq284iw6bcekeknk3jxe3ty)
