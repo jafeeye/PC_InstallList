@@ -119,7 +119,10 @@
 
 ## 自行撰寫
 - [RocketDockEX](https://drive.google.com/file/d/1s7Xd4GZXAcyeYv4EUZn-mjAgBHpW8aDx/view?usp=sharing)
-- [PDFTools](https://drive.google.com/file/d/1nmtuxJfnW6e9bZxB3fipFkOIveudML-E/view?usp=sharing)
+- [PDFTools v1.4](https://drive.google.com/file/d/1gqlXFz03tR-gqRzUfTZm-z3AsTNLlcvA/view?usp=sharing)
+- [SmallTools v0.1](https://drive.google.com/file/d/1I4YK1rC5Jfrj8tMzB9EZJDEXXv5sp9bt/view?usp=sharing)
+- [PCKnife v2.0.1](https://drive.google.com/file/d/1JhXLGpMsez_yAa9Y-CfJEIT-T-E8boKn/view?usp=sharing)
+- [ODCATools v0.25](https://drive.google.com/file/d/1cxr-f_cbGO81SqJOkWtJnGfSQDROJhxa/view?usp=sharing)
 
 ## 筆記
 - [Linux 筆記](https://app.box.com/s/cu9pqd76vpdmoyhrnmpl1rdyqgu7adbs)
