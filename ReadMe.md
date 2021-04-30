@@ -1,5 +1,3 @@
-[Emphasis](#emphasis) 
-
 # 整理電腦使用清單 
 [HackMD版本](https://hackmd.io/0qgyqkOZRuqe3D9A84sIig?both)
 ## 目錄
