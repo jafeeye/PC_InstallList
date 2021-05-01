@@ -45,7 +45,8 @@
 * UltraSearch/Everything：快速搜尋工具
 * uTools/Wox：類 Spotlight 工具
 * TagSpaces/taystLay/Lucion fileCenter：檔案管理工具
-* WebP Codec for Windows 
+* WebP Codec for Windows
+* Ditto
 ### 寫 CODE
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * VS Studio
