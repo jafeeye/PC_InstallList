@@ -120,8 +120,9 @@
 - [禁止自動下載惡意軟體移除工具](https://raw.githubusercontent.com/jafeeye/Windows-Optimization/main/Disable%20Windows%20Malicious%20Software%20Removal%20Tool.reg)
 
 ## 整理網站資源
-[微當下載](https://www.weidown.com/)
-[樂軟博客](https://www.isharepc.com/)
+- [微當下載](https://www.weidown.com/)
+- [樂軟博客](https://www.isharepc.com/)
+- 小眾軟件
 ## 筆記
 - [Linux 筆記](https://app.box.com/s/cu9pqd76vpdmoyhrnmpl1rdyqgu7adbs)
 - [3C型號選購與維修](https://app.box.com/s/q4nnwi1fnpq284iw6bcekeknk3jxe3ty)
