@@ -39,7 +39,7 @@
 * 新自然輸入法/Yahoo輸入法 改良式輸入法
 * WinAero Tweaker
 * Fliqlo
-* Rolan
+* Rolan/Lily/Claunch/TurboLauncher/Waltz
 * Display Fusion
 * AutoHotKey/按鍵精靈：
 * UltraSearch/Everything：快速搜尋工具
