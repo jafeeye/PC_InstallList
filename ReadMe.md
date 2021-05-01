@@ -85,6 +85,7 @@
 * VPNGate VPN 網路切換軟體
 * Firefox/Brave
 * HFS
+* Scrcpy：Android手機控制軟體
 ### 其他軟體
 * [CCEA 輸入法練習暨評測系統 v2.05.01](https://drive.google.com/u/1/uc?id=1y-1yHE5DJUvf1p92YfMuCqV8lavDteId&export=download)
 * [TQC+認證測驗系統 v2015](https://drive.google.com/u/1/uc?id=11BA2JH4uas4nl2o5IqBi1ooIv32w7K_L&export=download)
