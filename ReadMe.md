@@ -99,7 +99,7 @@
 | 音樂製作 | Cakewalk Sonar、Kontakt、Cubase、iZotope Reverb、Soundboard |
 | 影片製作 | VegasPro、Edius、小丸工具箱、ShanaEncoder|
 | VJ (Visual Jockey)、VJing | vMix、Resolume Arena、CasperCG |
-| 繪圖相關 | Eagle、ClipStudio Paint、PaintToolSAI |
+| 繪圖相關 | Eagle、ClipStudio Paint、PaintToolSAI、FairyGUI |
 | 電子書 | Alfa ebook Manager、Bluebeam Revu、ComicEnhancerPro、 |
 | 文書處理 | XMind、 |
 | 影片整理 | tinyMediaManager |
