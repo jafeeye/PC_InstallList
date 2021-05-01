@@ -95,7 +95,7 @@
 * [TQC+認證測驗系統 v2015](https://drive.google.com/u/1/uc?id=11BA2JH4uas4nl2o5IqBi1ooIv32w7K_L&export=download)
 * Trial-Reset
 ### Shell-Extension
-* XnShell
+* XnShell/SageThumbs
 ### UWP (Win10使用)
 * QuickLook：快速預覽檔案
 * Snipaste：一鍵截圖
