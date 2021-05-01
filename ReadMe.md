@@ -19,6 +19,8 @@
 * Abbyy PDF Transformer+13 PDF辨識軟體 
 * Abbyy FineReaderPDF 15 OCR辨識軟體
 * AniceSoft EPUB Converter 電子書轉換軟體
+* Typora/Boostnote/zettlr：Markdown 文書軟體
+* Xmind ：心智圖軟體
 ### 學習
 * GoldenDict/歐陸字典/法語助手/Dr.eye
 * Anki
@@ -43,7 +45,6 @@
 * UltraSearch/Everything：快速搜尋工具
 * uTools/Wox：類 Spotlight 工具 
 ### 寫 CODE
-* Typora
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * VS Studio
 * Brackets
