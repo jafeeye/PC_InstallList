@@ -55,6 +55,7 @@
 * S-Delete GUI
 * quickaccesspopup
 * nTrun
+* ImageGlass/2345看圖王
 ### 寫 CODE
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * VS Studio
