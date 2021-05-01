@@ -40,6 +40,7 @@
 * WinAero Tweaker
 * Fliqlo
 * Rolan/Lily/Claunch/TurboLauncher/Waltz華爾滋啟動器
+* MaxLauncher/WiseHotKey
 * Display Fusion
 * AutoHotKey/按鍵精靈：
 * UltraSearch/Everything：快速搜尋工具
