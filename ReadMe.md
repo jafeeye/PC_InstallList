@@ -22,6 +22,7 @@
 * Typora/Boostnote/zettlr：Markdown 文書軟體
 * Xmind ：心智圖軟體
 * Tableau Desktop
+* Deepl Pro
 ### 學習
 * GoldenDict/歐陸字典/法語助手/Dr.eye
 * Anki
