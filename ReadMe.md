@@ -98,6 +98,7 @@
 * XnShell/SageThumbs
 * open++/open with++
 * FileMenu Tools
+* FileTime
 ### UWP (Win10使用)
 * QuickLook：快速預覽檔案
 * Snipaste：一鍵截圖
