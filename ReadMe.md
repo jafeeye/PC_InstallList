@@ -51,6 +51,7 @@
 * BitDock/MyDock/WinStep Nexus/RocketDockEx
 * Ditto
 * rufus/ventoy
+* 字由
 ### 寫 CODE
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * VS Studio
