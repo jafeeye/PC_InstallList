@@ -41,7 +41,7 @@
 * 新自然輸入法/Yahoo輸入法 改良式輸入法
 * WinAero Tweaker
 * Fliqlo
-* Rolan/Lily/Claunch/TurboLauncher/Waltz華爾滋啟動器/Launcher/Lucy/Maye/音速啟動
+* Rolan/Lily/Claunch/TurboLauncher/Waltz華爾滋啟動器/Launcher/Lucy/Maye/音速啟動/nrLaunch
 * MaxLauncher/WiseHotKey
 * Display Fusion
 * AutoHotKey/按鍵精靈：
