@@ -121,6 +121,7 @@
 
 ## 整理網站資源
 [微當下載](https://www.weidown.com/)
+[樂軟博客](https://www.isharepc.com/)
 ## 筆記
 - [Linux 筆記](https://app.box.com/s/cu9pqd76vpdmoyhrnmpl1rdyqgu7adbs)
 - [3C型號選購與維修](https://app.box.com/s/q4nnwi1fnpq284iw6bcekeknk3jxe3ty)
