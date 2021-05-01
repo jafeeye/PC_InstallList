@@ -29,8 +29,7 @@
 * Systernails Tools + WSCC
 * Hyread3：加強 Windows 功能
 * 原始影像擴充功能：加強 Windows 功能
-* Snipaste：方便截圖軟體
-* ShareX   
+* Snipaste/ShareX：方便截圖軟體   
 * 7-zip/WinRAR
 * Easeus Todo PCTrans
 * Sandiboxie
