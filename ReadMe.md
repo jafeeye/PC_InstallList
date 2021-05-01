@@ -43,7 +43,7 @@
 * MaxLauncher/WiseHotKey
 * Display Fusion
 * AutoHotKey/按鍵精靈：
-* UltraSearch/Everything：快速搜尋工具
+* UltraSearch/Everything+Everything Toolbar：快速搜尋工具
 * uTools/Wox：類 Spotlight 工具
 * TagSpaces/tagLyst/Lucion fileCenter：檔案管理工具
 * WebP Codec for Windows
