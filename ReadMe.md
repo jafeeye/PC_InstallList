@@ -53,6 +53,7 @@
 * rufus/ventoy
 * 字由
 * S-Delete GUI
+* quickaccesspopup
 ### 寫 CODE
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * VS Studio
