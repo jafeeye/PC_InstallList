@@ -102,7 +102,8 @@
 * FileMenu Tools
 * FileTime
 * Talent Copy V
-* BinManager:右鍵按日期刪除資源回收桶 
+* BinManager:右鍵按日期刪除資源回收桶
+* HashCheck Shell Extension/HashTab/OpenHashTab 
 ### UWP (Win10使用)
 * QuickLook：快速預覽檔案
 * Snipaste：一鍵截圖
