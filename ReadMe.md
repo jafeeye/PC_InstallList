@@ -39,6 +39,8 @@
 * Fliqlo
 * Rolan
 * Display Fusion
+* AutoHotKey/按鍵精靈：
+* UltraSearch/Everything：快速搜尋工具 
 ### 寫 CODE
 * Typora
 * [Visual Studio Code](https://code.visualstudio.com/download)
