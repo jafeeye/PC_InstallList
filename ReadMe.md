@@ -99,7 +99,8 @@
 * open++/open with++
 * FileMenu Tools
 * FileTime
-* Talent Copy V 
+* Talent Copy V
+* BinManager:右鍵按日期刪除資源回收桶 
 ### UWP (Win10使用)
 * QuickLook：快速預覽檔案
 * Snipaste：一鍵截圖
