@@ -50,6 +50,7 @@
 * WebP Codec for Windows
 * BitDock/MyDock/WinStep Nexus/RocketDockEx
 * Ditto
+* rufus/ventoy
 ### 寫 CODE
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * VS Studio
