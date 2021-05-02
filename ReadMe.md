@@ -8,7 +8,7 @@
 * MS Office 2019/365 + MODI 2007 文書處理軟體+OCR模組
 * MS PowerBI/Power Automate Desktop
 * BookxNote/知之阅读/
-* Zotero/EndNote 文獻整理軟體
+* Zotero/EndNote/Citavi/Menedyle 文獻整理軟體
 * LibreOffice
 * Alfa eBook Manager
 * Infix PDF/PDF-XChange Editor/Bluebeam Revu：PDF閱讀軟體
