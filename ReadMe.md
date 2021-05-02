@@ -8,13 +8,13 @@
 * MS Office 2019/365 + MODI 2007 文書處理軟體+OCR模組
 * MS PowerBI/Power Automate Desktop
 * BookxNote/知之阅读/
-* Zotero/EndNote/Citavi/Menedyle 文獻整理軟體
+* Zotero/EndNote/Citavi/Mendeley 文獻整理軟體
 * LibreOffice
 * Alfa eBook Manager
 * Infix PDF/PDF-XChange Editor/Bluebeam Revu：PDF閱讀軟體
 * Adobe Digital Edition
 * Dr.eye/GoldenDict 辭典軟體
-* SDL Trados Studio 翻譯文件軟體 
+* SDL Trados Studio/QemoQ 翻譯文件軟體 
 * CopyTranstrator/QTtanslate+Deepl 線上翻譯軟體
 * Abbyy PDF Transformer+13 PDF辨識軟體 
 * Abbyy FineReaderPDF 15 OCR辨識軟體
