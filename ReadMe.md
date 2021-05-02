@@ -49,7 +49,7 @@
 * uTools/Wox/PowerRuns：類 Spotlight 工具
 * TagSpaces/tagLyst/Lucion fileCenter：檔案管理工具
 * WebP Codec for Windows
-* BitDock/MyDock/WinStep Nexus/RocketDockEx
+* BitDock/MyDock/WinStep Nexus/RocketDockEx/LinkBar
 * Ditto
 * rufus/ventoy
 * 字由
