@@ -50,7 +50,7 @@
 * TagSpaces/tagLyst/Lucion fileCenter：檔案管理工具
 * WebP Codec for Windows
 * BitDock/MyDock/WinStep Nexus/RocketDockEx/LinkBar
-* Ditto
+* Ditto/CopyQ
 * rufus/ventoy
 * 字由
 * quickaccesspopup/aGO 快速啟動
