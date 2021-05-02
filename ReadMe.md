@@ -40,7 +40,7 @@
 * Treesize
 * 新自然輸入法/Yahoo輸入法 改良式輸入法
 * WinAero Tweaker
-* Fliqlo
+* Fliqlo/LineScreen：好看螢幕保護程式
 * Rolan/Lily/Claunch/TurboLauncher/Waltz華爾滋啟動器/Launcher/Lucy/Maye/音速啟動/nrLaunch/FastLauncherX/OS+(快速启动软件)
 * MaxLauncher/WiseHotKey
 * Display Fusion
@@ -102,7 +102,7 @@
 * FileMenu Tools
 * FileTime
 * Talent Copy V
-* BinManager:右鍵按日期刪除資源回收桶
+* BinManager：右鍵按日期刪除資源回收桶
 * HashCheck Shell Extension/HashTab/OpenHashTab
 * S-Delete GUI：Systernails 暴力刪除工具
 ### UWP (Win10使用)
