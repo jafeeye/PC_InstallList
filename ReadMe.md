@@ -41,7 +41,7 @@
 * 新自然輸入法/Yahoo輸入法 改良式輸入法
 * WinAero Tweaker
 * Fliqlo/LINEScreenSaver：好看螢幕保護程式
-* Rolan/Lily/Claunch/TurboLauncher/Waltz華爾滋啟動器/Launcher/Lucy/Maye/音速啟動/nrLaunch/FastLauncherX/OS+(快速启动软件)
+* Rolan/Lily/Claunch/TurboLauncher/Waltz華爾滋啟動器/Launcher/Lucy/Maye/音速啟動/nrLaunch/FastLauncherX/OS+(快速启动软件)/LuLnk
 * ASuite/Portableapps
 * MaxLauncher/WiseHotKey
 * Display Fusion
