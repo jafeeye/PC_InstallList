@@ -55,7 +55,7 @@
 * 字由
 * S-Delete GUI
 * quickaccesspopup
-* nTrun
+* nTrun/QuickRun
 * ImageGlass/2345看圖王
 * On Top Replica
 * QtTabber
