@@ -10,7 +10,7 @@
 * BookxNote/知之阅读/
 * Zotero/EndNote/Citavi/Mendeley 文獻整理軟體
 * LibreOffice
-* Alfa eBook Manager/ePUBee ManagerCalibre
+* Alfa eBook Manager/ePUBee Manager/Epubor/Calibre/Koodo Reader
 * Infix PDF/PDF-XChange Editor/Bluebeam Revu：PDF閱讀軟體
 * Adobe Digital Edition
 * Dr.eye/GoldenDict 辭典軟體
