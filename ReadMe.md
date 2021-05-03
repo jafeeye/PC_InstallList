@@ -130,7 +130,7 @@
 | 類別  | 相關軟體 |
 | ------------- | ------------- |
 | 音樂製作 | Cakewalk Sonar、Kontakt、Cubase、iZotope Reverb、Soundboard |
-| 影片製作 | VegasPro、Edius、小丸工具箱、ShanaEncoder、SolveigMM Video Splitter |
+| 影片製作 | VegasPro、Edius、小丸工具箱、ShanaEncoder、SolveigMM Video Splitter、Natron(OpenSource)|
 | VJ (Visual Jockey)、VJing | vMix、Resolume Arena、CasperCG |
 | 繪圖相關 | Eagle、ClipStudio Paint、PaintToolSAI、FairyGUI |
 | 電子書 | Alfa ebook Manager、Bluebeam Revu、ComicEnhancerPro、 |
