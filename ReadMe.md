@@ -15,7 +15,7 @@
 * Adobe Digital Edition
 * Dr.eye/GoldenDict 辭典軟體
 * SDL Trados Studio/QemoQ 翻譯文件軟體 
-* CopyTranstrator/QTtanslate+Deepl/XTranslate/趣卡翻譯/SciTranslate：輔助翻譯軟體
+* CopyTranstrator/QTtanslate+Deepl/XTranslate/趣卡翻譯/STranslate：輔助翻譯軟體
 * Abbyy PDF Transformer+13 PDF辨識軟體 
 * Abbyy FineReaderPDF 15 OCR辨識軟體
 * AniceSoft EPUB Converter 電子書轉換軟體
