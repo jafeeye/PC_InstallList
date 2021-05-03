@@ -93,7 +93,7 @@
 * WinSCP FTP協定續傳
 * SwithHost! Host編輯軟體
 * VPNGate VPN 網路切換軟體
-* Firefox/Brave
+* Firefox/Brave/Vivaldi：網路瀏覽程式
 * HFS
 * Scrcpy：Android手機控制軟體
 ### 其他軟體
