@@ -97,6 +97,7 @@
 * Firefox/Brave/Vivaldi：網路瀏覽程式
 * HFS
 * Scrcpy：Android手機控制軟體
+* Google Books Downloader
 ### 其他軟體
 * [CCEA 輸入法練習暨評測系統 v2.05.01](https://drive.google.com/u/1/uc?id=1y-1yHE5DJUvf1p92YfMuCqV8lavDteId&export=download)
 * [TQC+認證測驗系統 v2015](https://drive.google.com/u/1/uc?id=11BA2JH4uas4nl2o5IqBi1ooIv32w7K_L&export=download)
