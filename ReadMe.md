@@ -107,7 +107,7 @@
 * FileTime
 * Talent Copy V
 * BinManager：右鍵按日期刪除資源回收桶
-* HashCheck Shell Extension/HashTab/OpenHashTab
+* HashCheck Shell Extension/HashTab/OpenHashTab：右鍵驗證檔案MD5
 * S-Delete GUI：Systernails 暴力刪除工具
 ### UWP (Win10使用)
 * QuickLook：快速預覽檔案
