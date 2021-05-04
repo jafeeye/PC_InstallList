@@ -19,7 +19,7 @@
 * Abbyy PDF Transformer+13 PDF辨識軟體 
 * Abbyy FineReaderPDF 15 OCR辨識軟體
 * AniceSoft EPUB Converter 電子書轉換軟體
-* Typora/Boostnote/zettlr：Markdown 文書軟體
+* Typora/Boostnote/zettlr/Yu Writer：Markdown 文書軟體
 * Xmind ：心智圖軟體
 * Tableau Desktop
 * Deepl Pro
@@ -136,7 +136,7 @@
 | 繪圖相關 | Eagle、ClipStudio Paint、PaintToolSAI、FairyGUI |
 | 電子書 | Alfa ebook Manager、Bluebeam Revu、ComicEnhancerPro、 |
 | 文書處理 | XMind、 |
-| 影片整理 | tinyMediaManager |
+| 影片整理 | tinyMediaManager | 
 
 
 [文件格式下載](https://app.box.com/s/ewehz0feyyoxgn3mn0lj2xi7tfec4ll0) 
