@@ -80,6 +80,7 @@
 ### 多媒體
 * PhotoImpact
 * 非常好色
+* Eagle/References.Design/Billfish
 ### 自行編寫/自行封裝軟體
 * [PCKnife v2.0.1](https://drive.google.com/file/d/1JhXLGpMsez_yAa9Y-CfJEIT-T-E8boKn/view?usp=sharing)
 * [PDFTools v1.4](https://drive.google.com/file/d/1gqlXFz03tR-gqRzUfTZm-z3AsTNLlcvA/view?usp=sharing)
