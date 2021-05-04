@@ -48,7 +48,7 @@
 * AutoHotKey/按鍵精靈：
 * UltraSearch/Everything+Everything Toolbar/File-Engine/AnyTXT Searcher/Hddb File Search：快速搜尋工具
 * uTools/Wox/PowerRuns：類 Spotlight 工具
-* TagSpaces/tagLyst/Lucion fileCenter：檔案管理工具
+* TagSpaces/tagLyst/FenrirFS/Lucion fileCenter：檔案管理工具
 * WebP Codec for Windows
 * BitDock/MyDock/WinStep Nexus/RocketDockEx/LinkBar
 * Ditto/CopyQ
