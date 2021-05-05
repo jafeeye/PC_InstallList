@@ -63,6 +63,7 @@
 * Detwinner/AntiDupl.NET/Bolide Image Comparer/Duplicate Image Remover Free/Dup Detector：相同圖片找尋工具
 * File Magic/Universal Viewer：多格式閱讀器
 * 菲菲更名寶貝
+* ASuite/SystemTrayMenu/PStar
 ### 寫 CODE
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * VS Studio
