@@ -19,7 +19,7 @@
 * Abbyy PDF Transformer+13 PDF辨識軟體 
 * Abbyy FineReaderPDF 15 OCR辨識軟體
 * AniceSoft EPUB Converter 電子書轉換軟體
-* Typora/Boostnote/zettlr/Yu Writer：Markdown 文書軟體
+* Typora/Boostnote/zettlr/Yu Writer/Joplin：Markdown 文書軟體
 * Xmind ：心智圖軟體
 * Tableau Desktop
 * Deepl Pro
