@@ -4,7 +4,7 @@
 [ToC]
 ## :memo: 常用軟體
 ### 文書相關
-* AcrobatDC/AcrobatReader
+* AcrobatDC
 * MS Office 2019/365 + MODI 2007 文書處理軟體+OCR模組
 * MS PowerBI/Power Automate Desktop
 * BookxNote/知之阅读/
