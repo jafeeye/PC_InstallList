@@ -41,3 +41,7 @@ io.elementary.appcenter
 * Poedit
 * Peek
 * Ulauncher
+```
+sudo add-apt-repository ppa:agornostal/ulauncher && sudo apt update && sudo apt install ulauncher
+```
+
