@@ -32,4 +32,8 @@ io.elementary.appcenter
 * Barrier
 * Chrome
 * Brave
-* 
+* GIMP
+* Audacity
+* Anki
+* XnConvert
+* Motrix
