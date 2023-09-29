@@ -37,3 +37,7 @@ io.elementary.appcenter
 * Anki
 * XnConvert
 * Motrix
+* Inkscape
+* Poedit
+* Peek
+* Ulauncher
