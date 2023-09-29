@@ -23,3 +23,13 @@ ninja
 sudo ninja install
 io.elementary.appcenter
 ```
+* VSCode
+* LocalSend
+* OnlyOffice Desktop
+* WPS Office
+* Nemo
+* Nero Linux
+* Barrier
+* Chrome
+* Brave
+* 
