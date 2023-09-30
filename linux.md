@@ -63,15 +63,17 @@ io.elementary.appcenter
 * VLC､Clapper､
 * Scribus
 * Bookworm
-*Python
-*Easytag
-*Lollypop
-*CaesiumPH
-*Pdfsam
-*Edraw Max
+* Python
+* Easytag
+* Lollypop
+* CaesiumPH
+* Pdfsam
+* Edraw Max
+* Flameshot/ Shutter
 * Pandoc
 * PowerISO for Linux
 * CPU-X
+* AnBox/WayDroid
 * CopyTranstrator
 * ImageMagick
 * LibreOffice
