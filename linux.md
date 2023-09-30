@@ -48,7 +48,6 @@ io.elementary.appcenter
 * Chrome
 * GParted
 * Gscan2pdf
-* 
 * Brave
 * GIMP、PhotoGIMP
 * Audacity
@@ -86,12 +85,10 @@ io.elementary.appcenter
 * VirtualBox､GNOME Boxes､Vmware
 * Flowblade 
   ![image](https://github.com/jafeeye/PC_InstallList/assets/60909823/da2cea86-7f8a-4104-905b-2a0a6b25c107)
-
   ```
   類 kdenlive,Shortcut,lightworks, Cinelerra-GG
   ```
 * Ulauncher
-
 ```
 sudo add-apt-repository ppa:agornostal/ulauncher && sudo apt update && sudo apt install ulauncher
 ```
