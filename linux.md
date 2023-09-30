@@ -62,6 +62,13 @@ io.elementary.appcenter
 * Crossover/PlayOnLinux/Wine/Winetrick/Bottle
 * VLC､Clapper､
 * Scribus
+* Bookworm
+*Python
+*Easytag
+*Lollypop
+*CaesiumPH
+*Pdfsam
+*Edraw Max
 * Pandoc
 * PowerISO for Linux
 * CPU-X
