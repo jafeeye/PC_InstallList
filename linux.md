@@ -31,6 +31,9 @@ io.elementary.appcenter
 * OnlyOffice Desktop
 * WPS Office
 * Nemo
+  ```
+
+  ```
 * Nero Linux
 * Barrier
 * Chrome
