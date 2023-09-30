@@ -62,8 +62,11 @@ io.elementary.appcenter
 * Crossover/PlayOnLinux/Wine/Winetrick/Bottle
 * VLC､Clapper､
 * Scribus
+* Homebrew+Hugo+Github
+* 精灵标注助手
 * Bookworm
 * Python
+* ms office online wrapper
 * Easytag
 * Lollypop
 * CaesiumPH
