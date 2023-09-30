@@ -9,6 +9,9 @@ ninja
 sudo ninja install 
 com.github.donadigo.eddy 
 ```
+```
+類：Gdebi
+```
 * Pop!_Shop
 ```
 git clone https://github.com/pop-os/repoman.git
