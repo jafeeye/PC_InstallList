@@ -41,6 +41,8 @@ io.elementary.appcenter
 * Poedit
 * Peek
 * Ulauncher
+* Crossover/PlayOnLinux/Wine/Winetrick/![image](https://github.com/jafeeye/PC_InstallList/assets/60909823/62eeb01b-c46d-4139-a198-4227f735e96d)
+
 ```
 sudo add-apt-repository ppa:agornostal/ulauncher && sudo apt update && sudo apt install ulauncher
 ```
