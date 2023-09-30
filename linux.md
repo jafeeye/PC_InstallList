@@ -32,7 +32,7 @@ io.elementary.appcenter
 * WPS Office
 * Nemo
   ```
-
+  類：Caja
   ```
 * Nero Linux
 * Barrier
