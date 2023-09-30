@@ -5,7 +5,7 @@
 - [學習](#學習)
 - [Shell-Extension](#Shell-Extension)
 - [Linux](/linux.md)
-
+- [註冊檔](#註冊檔整理)
 
 ## :memo: 常用軟體
 ### 文書相關
