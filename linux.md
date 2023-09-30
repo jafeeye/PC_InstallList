@@ -10,7 +10,7 @@ sudo ninja install
 com.github.donadigo.eddy 
 ```
 ```
-類：Gdebi
+類：Gdebi、Synaptic
 ```
 * Pop!_Shop
 ```
@@ -56,7 +56,7 @@ io.elementary.appcenter
 * Crossover/PlayOnLinux/Wine/Winetrick/
 * VLC､Clapper､
 * Scribus
-* Synaptic
+* 
 * ImageMagick
 * LibreOffice
 * VirtualBox､GNOME Boxes､Vmware
