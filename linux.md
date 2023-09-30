@@ -69,7 +69,8 @@ io.elementary.appcenter
 * ImageMagick
 * LibreOffice
 * VirtualBox､GNOME Boxes､Vmware
-* Flowblade
+* Flowblade![image](https://github.com/jafeeye/PC_InstallList/assets/60909823/da2cea86-7f8a-4104-905b-2a0a6b25c107)
+
   ```
   類 kdenlive,Shortcut,lightworks, Cinelerra-GG
   ```
