@@ -52,18 +52,27 @@ io.elementary.appcenter
 * Anki
 * XnConvert
 * Motrix
+  ```
+  類：uGet
+  ```
 * Nero Linux
 * Inkscape
 * Poedit
 * Peek
-* Crossover/PlayOnLinux/Wine/Winetrick/
+* Crossover/PlayOnLinux/Wine/Winetrick/Bottle
 * VLC､Clapper､
 * Scribus
 * Pandoc
 * PowerISO for Linux
+* CPU-X
+* CopyTranstrator
 * ImageMagick
 * LibreOffice
 * VirtualBox､GNOME Boxes､Vmware
+* Flowblade
+  ```
+  類 kdenlive,Shortcut,lightworks, Cinelerra-GG
+  ```
 * Ulauncher
 
 ```
