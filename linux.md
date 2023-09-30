@@ -1,4 +1,4 @@
-![image](https://github.com/jafeeye/PC_InstallList/assets/60909823/7be91399-46c8-43e3-94df-5cbebb63355b)* Eddy
+* Eddy
 ```
 git clone https://github.com/donadigo/eddy.git
 sudo apt install valac libgranite-dev libpackagekit-glib2-dev libunity-dev meson ninja-build libzeitgeist-2.0-dev gettext 
