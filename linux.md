@@ -1,4 +1,4 @@
-* Eddy
+![image](https://github.com/jafeeye/PC_InstallList/assets/60909823/7be91399-46c8-43e3-94df-5cbebb63355b)* Eddy
 ```
 git clone https://github.com/donadigo/eddy.git
 sudo apt install valac libgranite-dev libpackagekit-glib2-dev libunity-dev meson ninja-build libzeitgeist-2.0-dev gettext 
@@ -43,8 +43,11 @@ io.elementary.appcenter
 * Nero Linux
 * Barrier
 * Chrome
+* GParted
+* Gscan2pdf
+* 
 * Brave
-* GIMP
+* GIMP、PhotoGIMP
 * Audacity
 * Anki
 * XnConvert
@@ -56,7 +59,8 @@ io.elementary.appcenter
 * Crossover/PlayOnLinux/Wine/Winetrick/
 * VLC､Clapper､
 * Scribus
-* 
+* Pandoc
+* PowerISO for Linux
 * ImageMagick
 * LibreOffice
 * VirtualBox､GNOME Boxes､Vmware
