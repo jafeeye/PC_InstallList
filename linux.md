@@ -28,6 +28,9 @@ io.elementary.appcenter
 安裝插件：Chinese Translation、Markdown All in One、Paste Image
 ```
 * LocalSend
+  ```
+  類：LanDrop
+  ```
 * OnlyOffice Desktop
 * WPS Office
 * Nemo
@@ -43,6 +46,7 @@ io.elementary.appcenter
 * Anki
 * XnConvert
 * Motrix
+* Nero Linux
 * Inkscape
 * Poedit
 * Peek
