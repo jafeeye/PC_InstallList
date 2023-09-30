@@ -40,7 +40,6 @@ io.elementary.appcenter
 * Inkscape
 * Poedit
 * Peek
-
 * Crossover/PlayOnLinux/Wine/Winetrick/
 * VLC､Clapper､
 * Scribus
