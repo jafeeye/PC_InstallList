@@ -24,6 +24,9 @@ sudo ninja install
 io.elementary.appcenter
 ```
 * VSCode
+```
+安裝插件：Chinese Translation、Markdown All in One、Paste Image
+```
 * LocalSend
 * OnlyOffice Desktop
 * WPS Office
@@ -45,6 +48,7 @@ io.elementary.appcenter
 * Scribus
 * Synaptic
 * ImageMagick
+* VirtualBox､GNOME Boxes､Vmware
 * Ulauncher
 
 ```
