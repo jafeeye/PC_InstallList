@@ -2,7 +2,7 @@
 [HackMD版本(未最新)](https://hackmd.io/0qgyqkOZRuqe3D9A84sIig?both)
 ## 目錄
 - [文書相關](#----)
-- [學習](#--)
+- [學習](#學習)
 
 
 ## :memo: 常用軟體
