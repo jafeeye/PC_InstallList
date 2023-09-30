@@ -58,6 +58,7 @@ io.elementary.appcenter
 * Scribus
 * Synaptic
 * ImageMagick
+* LibreOffice
 * VirtualBox､GNOME Boxes､Vmware
 * Ulauncher
 
