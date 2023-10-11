@@ -1,0 +1,3 @@
+;禁用 Windows 更新惡意軟體刪除工具
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MRT]
+“DontOfferThroughWUAU”=dword:00000001

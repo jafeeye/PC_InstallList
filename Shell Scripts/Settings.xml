@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Items>
+    <Item>
+      <AllFiles>false</AllFiles>
+      <Arguments>%paths%</Arguments>
+      <Directories>false</Directories>
+      <FileTypes>exe sys dll</FileTypes>
+      <FileTypesDisplay>%sys%</FileTypesDisplay>
+      <Filter />
+      <Hidden>false</Hidden>
+      <HideWindow>false</HideWindow>
+      <IconFile>G:\ODCATools\Detect_It_Easy_1.01\die.exe</IconFile>
+      <IconIndex>0</IconIndex>
+      <Name>Detect It Easy</Name>
+      <Path>G:\ODCATools\Detect_It_Easy_1.01\die.exe</Path>
+      <RunAsAdmin>false</RunAsAdmin>
+      <SubMenu>true</SubMenu>
+      <WorkingDirectory />
+    </Item>
+    <Item>
+      <AllFiles>false</AllFiles>
+      <Arguments>%paths%</Arguments>
+      <Directories>false</Directories>
+      <FileTypes>mpg avi vob mp4 d2v mkv avs 264 mov wmv part flv ifo h264 asf webm mpeg mpv y4m avc hevc 265 h265 m2v m2ts vpy mts webm ts m4v part</FileTypes>
+      <FileTypesDisplay>%video%</FileTypesDisplay>
+      <Filter />
+      <Hidden>false</Hidden>
+      <HideWindow>false</HideWindow>
+      <IconFile>G:\HTPC\Apps\Player\MPC-BE.1.5.7.6180.x86\mpc-be.exe</IconFile>
+      <IconIndex>0</IconIndex>
+      <Name>MPC-BE</Name>
+      <Path>G:\HTPC\Apps\Player\MPC-BE.1.5.7.6180.x86\mpc-be.exe</Path>
+      <RunAsAdmin>false</RunAsAdmin>
+      <SubMenu>true</SubMenu>
+      <WorkingDirectory />
+    </Item>
+    <Item>
+      <AllFiles>false</AllFiles>
+      <Arguments>%paths%</Arguments>
+      <Directories>false</Directories>
+      <FileTypes>txt ini lng xml</FileTypes>
+      <FileTypesDisplay>%profile%</FileTypesDisplay>
+      <Filter />
+      <Hidden>false</Hidden>
+      <HideWindow>false</HideWindow>
+      <IconFile>G:\SmartTools\npp.7.9.2.portable\notepad++.exe</IconFile>
+      <IconIndex>0</IconIndex>
+      <Name>Notepad++</Name>
+      <Path>G:\SmartTools\npp.7.9.2.portable\notepad++.exe</Path>
+      <RunAsAdmin>false</RunAsAdmin>
+      <SubMenu>true</SubMenu>
+      <WorkingDirectory />
+    </Item>
+    <Item>
+      <AllFiles>false</AllFiles>
+      <Arguments>%paths%</Arguments>
+      <Directories>false</Directories>
+      <FileTypes>pdf</FileTypes>
+      <FileTypesDisplay>%document%</FileTypesDisplay>
+      <Filter />
+      <Hidden>false</Hidden>
+      <HideWindow>false</HideWindow>
+      <IconFile>G:\PDFTools\PDF-XChange Editor 8.0.343.0\PDFXEdit.exe</IconFile>
+      <IconIndex>0</IconIndex>
+      <Name>PDF-XChange</Name>
+      <Path>G:\PDFTools\PDF-XChange Editor 8.0.343.0\PDFXEdit.exe</Path>
+      <RunAsAdmin>false</RunAsAdmin>
+      <SubMenu>true</SubMenu>
+      <WorkingDirectory />
+    </Item>
+    <Item>
+      <AllFiles>false</AllFiles>
+      <Arguments>%paths%</Arguments>
+      <Directories>false</Directories>
+      <FileTypes>mpg avi vob mp4 d2v mkv avs 264 mov wmv part flv ifo h264 asf webm mpeg mpv y4m avc hevc 265 h265 m2v m2ts vpy mts webm ts m4v part</FileTypes>
+      <FileTypesDisplay>%video%</FileTypesDisplay>
+      <Filter />
+      <Hidden>false</Hidden>
+      <HideWindow>false</HideWindow>
+      <IconFile>G:\HTPC\Apps\Player\PotPlayer_1.7.21595.x64_7sh3\PotPlayerMini64.exe</IconFile>
+      <IconIndex>0</IconIndex>
+      <Name>PotPlayer</Name>
+      <Path>G:\HTPC\Apps\Player\PotPlayer_1.7.21595.x64_7sh3\PotPlayerMini64.exe</Path>
+      <RunAsAdmin>false</RunAsAdmin>
+      <SubMenu>true</SubMenu>
+      <WorkingDirectory />
+    </Item>
+    <Item>
+      <AllFiles>false</AllFiles>
+      <Arguments>%paths%</Arguments>
+      <Directories>false</Directories>
+      <FileTypes>exe sys dll</FileTypes>
+      <FileTypesDisplay>%sys%</FileTypesDisplay>
+      <Filter />
+      <Hidden>false</Hidden>
+      <HideWindow>false</HideWindow>
+      <IconFile>G:\ODCATools\ResHacker.Portable.5.1.8.CHT\ResHackerPortable.exe</IconFile>
+      <IconIndex>0</IconIndex>
+      <Name>Resource Hacker</Name>
+      <Path>G:\ODCATools\ResHacker.Portable.5.1.8.CHT\ResHackerPortable.exe</Path>
+      <RunAsAdmin>false</RunAsAdmin>
+      <SubMenu>true</SubMenu>
+      <WorkingDirectory />
+    </Item>
+    <Item>
+      <AllFiles>false</AllFiles>
+      <Arguments>%paths%</Arguments>
+      <Directories>false</Directories>
+      <FileTypes>pdf</FileTypes>
+      <FileTypesDisplay>%document%</FileTypesDisplay>
+      <Filter />
+      <Hidden>false</Hidden>
+      <HideWindow>false</HideWindow>
+      <IconFile>G:\PDFTools\SumatraPDFPortable\SumatraPDF-3.3.1-32.exe</IconFile>
+      <IconIndex>0</IconIndex>
+      <Name>Sumatra PDF</Name>
+      <Path>G:\PDFTools\SumatraPDFPortable\SumatraPDF-3.3.1-32.exe</Path>
+      <RunAsAdmin>false</RunAsAdmin>
+      <SubMenu>true</SubMenu>
+      <WorkingDirectory />
+    </Item>
+  </Items>
+  <Macros>
+    <Macro>
+      <Name>%video%</Name>
+      <Value>mpg avi vob mp4 d2v mkv avs 264 mov wmv part flv ifo h264 asf webm mpeg mpv y4m avc hevc 265 h265 m2v m2ts vpy mts webm ts m4v part</Value>
+    </Macro>
+    <Macro>
+      <Name>%audio%</Name>
+      <Value>mp2 mp3 ac3 wav w64 m4a dts dtsma dtshr dtshd eac3 thd thd+ac3 ogg mka aac opus flac mpa</Value>
+    </Macro>
+    <Macro>
+      <Name>%subtitle%</Name>
+      <Value>sub sup idx ass aas srt</Value>
+    </Macro>
+    <Macro>
+      <Name>%image%</Name>
+      <Value>png jpg jpeg gif bmp</Value>
+    </Macro>
+    <Macro>
+      <Name>%document%</Name>
+      <Value>pdf</Value>
+    </Macro>
+    <Macro>
+      <Name>%profile%</Name>
+      <Value>txt ini lng xml</Value>
+    </Macro>
+    <Macro>
+      <Name>%sys%</Name>
+      <Value>exe sys dll</Value>
+    </Macro>
+  </Macros>
+</AppSettings>
