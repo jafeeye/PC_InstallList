@@ -156,7 +156,7 @@
 - sordum
 
 ## 註冊檔整理
-- [Windows Explorer 移除 260 字元限制](https://raw.githubusercontent.com/jafeeye/Windows-Optimization/main/Remove%20260%20Character%20Path%20Limit.reg)
+- [Windows Explorer 移除 260 字元限制](https://raw.githubusercontent.com/jafeeye/PC_InstallList/main/Shell%20Scripts/Remove%20260%20Character%20Path%20Limit.reg)
 - [禁止自動下載惡意軟體移除工具](https://raw.githubusercontent.com/jafeeye/Windows-Optimization/main/Disable%20Windows%20Malicious%20Software%20Removal%20Tool.reg)
 
 ## 整理網站資源
