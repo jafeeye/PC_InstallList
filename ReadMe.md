@@ -1,4 +1,4 @@
-# 整理電腦使用清單 
+# 電腦使用清單 
 [HackMD版本(未最新)](https://hackmd.io/0qgyqkOZRuqe3D9A84sIig?both)
 ## 目錄
 - [文書相關](#文書相關)
