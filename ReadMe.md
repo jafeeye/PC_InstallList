@@ -177,4 +177,4 @@
 
 
 iOS
-Paperless Client:Less Paper/Scan4Paperless/Paperless
+Paperless Client:Less Paper/Scan4Paperless/Swift Paperless
